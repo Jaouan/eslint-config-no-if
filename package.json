@@ -1,0 +1,23 @@
+{
+  "name": "@jaouan/eslint-config-no-if",
+  "version": "1.0.0",
+  "keywords": [
+    "config",
+    "eslint",
+    "eslint-config",
+    "eslint-plugin",
+    "lint",
+    "no-if",
+    "statement"
+  ],
+  "homepage": "https://github.com/Jaouan/eslint-config-no-if",
+  "bugs": {
+    "url": "https://github.com/Jaouan/eslint-config-no-if/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jaouan/eslint-config-no-if.git"
+  },
+  "license": "MIT",
+  "main": "."
+}

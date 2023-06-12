@@ -40,7 +40,7 @@ if (aBoolean) {
     console.log("bar");
 }
 
-// OK, using ternary.
+// 👍 OK, using ternary.
 aBoolean ? console.log("foo") : console.log("bar");
 ```
 
@@ -58,7 +58,7 @@ if (foo === "a") {
   throw new Error("Unknown");
 }
 
-// OK, using object.
+// 👍 OK, using object.
 const fooStrategies = {
     "a": () => console.log("A"),
     "b": () => console.log("B"),
